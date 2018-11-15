@@ -1,0 +1,44 @@
+body{
+    color: white;
+}
+div.todo{
+    overflow: hidden;
+    background-color: black;
+}
+input{
+    background-color: black;
+}
+div.div1{
+    display: inline-block;
+    padding-left: 110px;
+}
+div#div2{
+    overflow: hidden;
+    background-color: lightgrey;
+}
+p#naranja{
+    color: orange;
+}
+img#img1{
+    top: 8px;
+    position: relative; 
+}
+ul#menu{
+    clear: both;
+    float: left;
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul#menu li{
+    float: left;
+}
+ul#menu li a{
+    font-weight: bolder;
+    color: black;
+    padding: .7em;
+    display: block;   
+    margin-left: 100px;
+    text-decoration: none;
+}
