@@ -42,3 +42,6 @@ ul#menu li a{
     margin-left: 100px;
     text-decoration: none;
 }
+a:hover{
+    background-color: orange;
+}
